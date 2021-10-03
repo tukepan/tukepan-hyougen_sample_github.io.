@@ -1,0 +1,17 @@
+.white {
+    height: 50px;
+}
+
+.photo {
+    text-align: center;
+    margin: 20px;
+}
+
+.photo p {
+    font-size: 32px;
+}
+
+.photo img {
+    width: 45%;
+    margin: 0 auto;
+}
